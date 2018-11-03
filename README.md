@@ -1,2 +1,8 @@
 # AI-projects-python
-A collection of ML/AI projects implemented by me in python !
+A collection of ML/AI projects implemented by me in python ! Refer to individual folder for more details.
+
+1. Neuroevolution flappy bird : A flappy bird game made in pygame, and solved using a neuroevolutionary algorithm.
+2. Tic Tac Toe : A tic tac toe playing agent using minimax algorithm.
+
+![alt text](https://github.com/adityapande-1995/AI-projects-python/blob/master/Neuroevolution-flappy-bird/fb2.gif "Trained bords in action) 
+
