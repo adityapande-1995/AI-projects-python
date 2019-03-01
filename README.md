@@ -6,7 +6,7 @@ A collection of ML/AI projects implemented by me in python ! Refer to individual
 3. DQN: Boilerplate code for a DQN agent to be used for reinforcement learning problems
 
 ![alt text](https://github.com/adityapande-1995/AI-projects-python/blob/master/Neuroevolution-flappy-bird/fb2.gif "Trained birds in action")
-![alt text](https://github.com/adityapande-1995/AI-projects-python/blob/master/Tic-Tac-Toe/ttt.gif "Agents in action")
+![alt text](https://github.com/adityapande-1995/AI-projects-python/blob/master/Tic-Tac-Toe/ttt.gif "Tic Tac Toe agent")
 
 
 
